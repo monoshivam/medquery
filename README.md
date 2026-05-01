@@ -20,8 +20,8 @@ A RAG-based clinical report analyser. Upload a lab report or clinical diagnosis 
 ### 1. Clone and install
  
 ```bash
-git clone https://github.com/monoshivam/medrag-uni.git
-cd medrag-uni
+git clone https://github.com/monoshivam/medquery.git
+cd medquery
 npm install
 ```
  
