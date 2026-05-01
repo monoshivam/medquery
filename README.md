@@ -1,4 +1,4 @@
-# MedRAG
+# MedQuery
  
 A RAG-based clinical report analyser. Upload a lab report or clinical diagnosis as an image, and ask the AI questions about it — it'll flag abnormal values, explain findings, and answer queries grounded in real clinical reference data.
  
